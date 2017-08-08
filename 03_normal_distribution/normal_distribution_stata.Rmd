@@ -396,3 +396,9 @@ restore
 <!-- This lab was adapted for OpenIntro by Andrew Bray and Mine &Ccedil;etinkaya-Rundel -->
 <!-- from a lab written by Mark Hansen of UCLA Statistics. -->
 <!-- </div> -->
+
+
+
+```{r, engine='R', include = FALSE, eval = TRUE}
+unlink("profile.do")
+```

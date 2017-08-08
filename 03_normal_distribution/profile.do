@@ -1,1 +1,0 @@
-use "bdims.dta"
